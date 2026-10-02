@@ -9,7 +9,7 @@ github_image_url = "https://cdn-icons-png.flaticon.com/256/25/25231.png"
 email_image_url = "https://logowik.com/content/uploads/images/513_email.jpg"
 
 my_linkedin_url = "https://www.linkedin.com/in/yashas-devulapally"
-my_github_url = "https://github.com/yashas-devulapally"
+my_github_url = "https://github.com/Yashasdev"
 my_email_address = "ydevulapally3@gatech.edu"
 
 # Education Data

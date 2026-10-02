@@ -100,7 +100,7 @@ leadership_data = {
 
 # Activities Data
 activity_data = {
-    "Georgia Tech Men's Volleyball": [
+    "Men's Volleyball": [
         "- Competitive volleyball player with All-State and All-Region high school honors.",
         "- Placed 1st at 18s OVR Boys Winterfest Championships."
     ],

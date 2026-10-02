@@ -149,3 +149,12 @@ if st.button("Show my match"):
     st.write(explanation)
     st.image(image_path, caption=match)
     st.metric("Points in your strongest category", top_score)  #NEW
+#Extra credit progress bar
+    st.subheader("Your score breakdown")
+    st.bar_chart(
+        {
+            "Biomedical Researcher": research_score,
+            "Medical Device Designer": design_score,
+            "STEM Educator and Innovator": education_score,
+        }
+    )

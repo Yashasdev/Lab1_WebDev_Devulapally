@@ -1,0 +1,34 @@
+{
+    "chart_title": "My New Albany Volleyball Stats",
+    "source": "Coach-entered season statistics from MaxPreps. These are season totals, not individual match results.",
+    "source_url": "https://www.maxpreps.com/oh/new-albany/new-albany-eagles/athletes/yashas-devulapally/volleyball/boys/stats/?careerid=fkomn9is34el5",
+    "profile_url": "https://yashasdevulapally.com",
+    "retrieved_on": "2026-10-23",
+    "source_last_updated": "2026-05-19",
+    "data_points": [
+        {
+            "season": "23-24",
+            "sets": 67,
+            "kills": 81,
+            "attempts": 184,
+            "errors": 25,
+            "hitting_percentage": 0.304
+        },
+        {
+            "season": "24-25",
+            "sets": 90,
+            "kills": 318,
+            "attempts": 708,
+            "errors": 87,
+            "hitting_percentage": 0.326
+        },
+        {
+            "season": "25-26",
+            "sets": 48,
+            "kills": 130,
+            "attempts": 257,
+            "errors": 36,
+            "hitting_percentage": 0.366
+        }
+    ]
+}
